@@ -9,5 +9,3 @@ If you want to check the full training, which is very recommended, just [click h
 ### Information
 
 If you want to understand the exercises, it is recommended that you check the course since I didn't add the instructions for each exercise here.
-
-The file practice.js is the file that I used to load the JS code from that respective day. Once past, the exercise becomes file 'day-1.js'. 'day-2.js' and so on.

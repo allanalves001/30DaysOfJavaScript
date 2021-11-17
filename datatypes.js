@@ -1,3 +1,5 @@
+//DAY 1
+
 console.log(typeof 'Allan');
 console.log(typeof true);
 console.log(typeof undefined);
